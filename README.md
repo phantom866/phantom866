@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/pixel-night-coding.gif"
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/pixel-night-coding.gif"
      width="130" align="right"/>
 
 # Hi, I'm Phantom 👋

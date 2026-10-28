@@ -23,7 +23,7 @@
 ```text
 USER       : Phantom
 ROLE       : Computer Science Student & Developer
-ENVIRONMENT: EndeavourOS Linux
+ENVIRONMENT: EndeavourOS Linux · Hyprland · Caelestia Shell
 INTERESTS  : App Development, Web, AI & Game Development
 CURRENTLY  : Learning, experimenting, building.
 DIRECTIVE  : Turn ideas into real, usable products.
@@ -40,7 +40,7 @@ I believe the best way to learn something is to get your hands dirty, break thin
 - 📱 Exploring mobile development with Flutter.
 - 🌐 Building web applications with React, Next.js and backend technologies.
 - 🎮 Experimenting with game development using Godot and Unity.
-- 🐧 Daily-driving Linux and exploring the developer ecosystem.
+- 🐧 Daily-driving EndeavourOS Linux, customizing my Hyprland desktop with Caelestia, and exploring the Linux ecosystem.
 - 🚀 Participating in hackathons and building projects with a team.
 - 🧠 Strengthening my programming fundamentals and problem-solving skills.
 
@@ -72,9 +72,16 @@ I believe the best way to learn something is to get your hands dirty, break thin
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black)
 
+### Linux & Desktop Customization
+
+![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7F7FFF?style=flat-square&logo=endeavouros&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square&logo=hyprland&logoColor=black)
+![Caelestia](https://img.shields.io/badge/Caelestia-Shell-8A2BE2?style=flat-square)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+
 ### Databases, Tools & Platforms
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
